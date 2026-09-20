@@ -348,4 +348,4 @@ classification and the catalog.
 
 ## License
 
-MIT.
+MIT, see [LICENSE](LICENSE).
