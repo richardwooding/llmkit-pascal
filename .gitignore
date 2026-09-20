@@ -1,0 +1,13 @@
+# build output
+build/
+bin/
+
+# compiler artefacts
+*.o
+*.ppu
+*.a
+*.compiled
+
+# agent session files
+.wright/
+wright-*.md
